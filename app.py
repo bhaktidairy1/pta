@@ -15,8 +15,11 @@ MAGE_URLS = [#iruna15
 "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywigSRDmMyF3ttFIHK5N6MIKtzBJ-LGyQ1CtSoli6OpmucenowwWY45GfwMCnfMLB1VtFAACgYKAVsSARUSFQHGX2Miq2D2ZhC3VbJ_K9kyqHctBxoVAUF8yKp8-9rmA1GqRchawk9lmbLh0076",
         #14
     "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywitBIOzJ9x5UpMzqadLmT_bRqbWUocG-8WbtpqkC9gwHbJxbvDaE9pvH1pvCnwdG1zHFQACgYKAe0SARISFQHGX2Miqq6GlB1F9OtvMwDzZbCg4xoVAUF8yKoCGgAU8I4kxj7Wu24b3p7A0076",
-                #MINS
-"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywjqyOTVEvNd-vMfhKJhVBbVCadfYW1aJvFji_zskW4-JQkwkI0P3kUDa1N3r2G6p73gRAACgYKAe4SARQSFQHGX2MiuurB6fQTsINZpcs2JBKldhoVAUF8yKpj77J0GuTe9mEFxLWlx6Zd0076",
+        
+        
+        #16
+        "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAjC2yhvKQA52BmA2l8YgXfCxhEv96SoL4V26IbDZkoiQP8qa-5nlvSp8yHzpGmEkoDO0gACgYKAasSARUSFQHGX2MiphLMKxcRNNl8FRGKQ0bv7RoVAUF8yKrTgx6rC39sUqdwId12SPaY0076"
+        
 ]
 
 app = Flask(__name__)
