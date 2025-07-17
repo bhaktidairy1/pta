@@ -12,9 +12,11 @@ PORT = 30001
 
 # — Hard‑coded list of three dummy Mage URLs —
 MAGE_URLS = [#iruna15
-"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywigSRDmMyF3ttFIHK5N6MIKtzBJ-LGyQ1CtSoli6OpmucenowwWY45GfwMCnfMLB1VtFAACgYKAVsSARUSFQHGX2Miq2D2ZhC3VbJ_K9kyqHctBxoVAUF8yKp8-9rmA1GqRchawk9lmbLh0076",
-        #14
-    "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywitBIOzJ9x5UpMzqadLmT_bRqbWUocG-8WbtpqkC9gwHbJxbvDaE9pvH1pvCnwdG1zHFQACgYKAe0SARISFQHGX2Miqq6GlB1F9OtvMwDzZbCg4xoVAUF8yKoCGgAU8I4kxj7Wu24b3p7A0076",
+"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywigSRDmMyF3ttFIHK5N6MIKtzBJ-LGyQ1CtSoli6OpmucenowwWY45GfwMCnfMLB1VtFAACgYKAVsSARUSFQHGX2Miq2D2ZhC3VbJ_K9kyqHctBxoVAUF8yKp8-9rmA1GqRchawk9lmbLh0076"
+        ,
+        #17
+"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAgiOYqEtRlAI59TRyj4ntqQu6rj80gszjLySZSWhyaubgCgjlox303SoZppjIXhHZozdAACgYKARYSARQSFQHGX2MiG3G9gtuqlPvBIcZirBCqrhoVAUF8yKo1v4CMLDSOTNfl-QW0qdsV0076"
+        ,
         
         
         #16
