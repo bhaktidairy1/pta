@@ -11,16 +11,24 @@ HOST = "202.239.51.41"
 PORT = 30001
 
 # — Hard‑coded list of three dummy Mage URLs —
-MAGE_URLS = [#iruna15
-"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000ywigSRDmMyF3ttFIHK5N6MIKtzBJ-LGyQ1CtSoli6OpmucenowwWY45GfwMCnfMLB1VtFAACgYKAVsSARUSFQHGX2Miq2D2ZhC3VbJ_K9kyqHctBxoVAUF8yKp8-9rmA1GqRchawk9lmbLh0076"
+MAGE_URLS = [
+
+          #"iruna19"
+        "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAj6U-yLXZwlAGyuCpKT5w_avHXoExy4VXefcqDlXOs8C3m_v3oQb20uxnHpkWgRY9balAACgYKAeoSARYSFQHGX2MiP-52tewR8bFwntt4Do_5DRoVAUF8yKoRuTOnWhIF2tr34EThZHsE0076"
+
         ,
-        #17
-"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAgiOYqEtRlAI59TRyj4ntqQu6rj80gszjLySZSWhyaubgCgjlox303SoZppjIXhHZozdAACgYKARYSARQSFQHGX2MiG3G9gtuqlPvBIcZirBCqrhoVAUF8yKo1v4CMLDSOTNfl-QW0qdsV0076"
+          #"boiwhatthe24":(
+                  
+                  "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zQgXhC2MzCfTmabjFxwu3nFlAG64R48zQjSoBBiPtaZYXqh9m04fxi0NLwEAo8OssYri-gACgYKAfQSARcSFQHGX2Mi5DWIBkrI84E1I-Bms5urmxoVAUF8yKp8dkadbRjGeeC8AQEfjXsF0076"
+        
+
         ,
+        #"iruna18":(
+                "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAiAfivUUxtcyVs5_EGR9BI09LGvLKPj0lbhhCblw98ypmEE5VINxmGjr0GAgDNtwwuvHQACgYKAa4SARQSFQHGX2Mi7o4qoZPi7VW5q95w1hmfGBoVAUF8yKrkoRHwaZ_1nq71FG_iXZGV0076"
+
         
         
-        #16
-        "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAjC2yhvKQA52BmA2l8YgXfCxhEv96SoL4V26IbDZkoiQP8qa-5nlvSp8yHzpGmEkoDO0gACgYKAasSARUSFQHGX2MiphLMKxcRNNl8FRGKQ0bv7RoVAUF8yKrTgx6rC39sUqdwId12SPaY0076"
+        
         
 ]
 
