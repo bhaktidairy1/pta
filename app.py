@@ -14,8 +14,7 @@ PORT = 30001
 MAGE_URLS = [
 
           #"iruna19"
-        "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAj6U-yLXZwlAGyuCpKT5w_avHXoExy4VXefcqDlXOs8C3m_v3oQb20uxnHpkWgRY9balAACgYKAeoSARYSFQHGX2MiP-52tewR8bFwntt4Do_5DRoVAUF8yKoRuTOnWhIF2tr34EThZHsE0076"
-
+"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zQj6U20T2yE55GCmEVmPLPOmLwaB3xCVGsN5O8DwdREelaO-hhWr8YPx8JExuY8o6avTwAACgYKAfESARYSFQHGX2Mi7SVG5WStQBn1vTibBtWBThoVAUF8yKpgXNiX1IN9bVdcDXcIWOvV0076"
         ,
           #"boiwhatthe24":(
                   
