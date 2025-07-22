@@ -22,8 +22,8 @@ MAGE_URLS = [
         
 
         ,
-        #"iruna18":(
-                "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zAiAfivUUxtcyVs5_EGR9BI09LGvLKPj0lbhhCblw98ypmEE5VINxmGjr0GAgDNtwwuvHQACgYKAa4SARQSFQHGX2Mi7o4qoZPi7VW5q95w1hmfGBoVAUF8yKrkoRHwaZ_1nq71FG_iXZGV0076"
+#"helbruh24":(
+          "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zQiOew0SacLx6Ot2HXbzuRmVGXLEaiUOFMeS9g9LbTZSFpbwiMDiyx4zOMdjTDVkkysRIQACgYKAdASARISFQHGX2MilYrZw6-kS6DqhpJ3JvdtSRoVAUF8yKpOIRfLAg5IBfuBuND3uV-Y0076"
 
         
         
