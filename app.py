@@ -16,10 +16,9 @@ MAGE_URLS = [
           #"iruna19"
 "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zQj6U20T2yE55GCmEVmPLPOmLwaB3xCVGsN5O8DwdREelaO-hhWr8YPx8JExuY8o6avTwAACgYKAfESARYSFQHGX2Mi7SVG5WStQBn1vTibBtWBThoVAUF8yKpgXNiX1IN9bVdcDXcIWOvV0076"
         ,
-          #"boiwhatthe24":(
+          #"tuntunsashur":(
                   
-                  "https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zQgXhC2MzCfTmabjFxwu3nFlAG64R48zQjSoBBiPtaZYXqh9m04fxi0NLwEAo8OssYri-gACgYKAfQSARcSFQHGX2Mi5DWIBkrI84E1I-Bms5urmxoVAUF8yKp8dkadbRjGeeC8AQEfjXsF0076"
-        
+"https://gae4php82-real.an.r.appspot.com/_ah/login?continue=https://gae4php82-real.an.r.appspot.com/authcreate&auth=g.a000zgh5x3-BHLKHvd5tIehnAEOc0osTECLrYAvdr-71t1TnFkdrEU2mdFBb-Nrb3MBHLcFQZQACgYKAdESARcSFQHGX2Mi_X5qiQ79foclYfYPCh9C3xoVAUF8yKr_ep-mwHdDH692cnLUsLZd0076"        
 
         ,
 #"helbruh24":(
